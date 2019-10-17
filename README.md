@@ -1,0 +1,2 @@
+# Temporal-Process-Simulator
+This code is meant to be used for simulation of a node process paired with an edge process, which will be referred to as a “temporal process” for lack of better terminology. A node process is a model for information transfer between nodes in time. An edge process is a model for edge removal and addition in time. This code is meant to aid in the study of how an edge process affects a node process.
